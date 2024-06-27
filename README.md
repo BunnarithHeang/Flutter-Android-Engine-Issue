@@ -1,7 +1,3 @@
-# Test Flutter Module
-
-- Sample code for reported issue on GitHub: https://github.com/firebase/flutterfire/issues/12988
-
 ## Instruction Steps:
 1. Run `flutter pub get` & `flutter build aar`
 2. Replace **{{local_maven_url}}** local maven repository inside Android/settings.gradle.kts
